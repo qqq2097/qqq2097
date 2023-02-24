@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hello%World!&fontSize=80&animation=twinkling&fontColor=#ffffff" />
 
-  <h3>👩🏻‍💻 back-end Stack </h3>
+  <h3>👩🏻‍💻 MinJi's back-end Stack </h3>
   <hr>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -14,4 +14,13 @@
 <img src="https://img.shields.io/badge/jQuery-769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+
+
+
+
+
+
+
+
+
 </div>
